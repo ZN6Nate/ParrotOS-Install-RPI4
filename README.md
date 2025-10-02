@@ -14,7 +14,7 @@
 
 <h2>Files Needed</h2>
 🍓 <a href="https://www.raspberrypi.com/software/">Raspberry Pi Imager Software</a> <br>
-🦜<a href="https://parrotsec.org/download/">ParrotOS (Select Download -> IoT -> Raspberry Pi) </a>
+🦜<a href="https://parrotsec.org/download/">ParrotOS </a>
 
 <h1>🛠️ Installation Steps</h1>
 
