@@ -47,5 +47,15 @@
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/144ec3ac-5c0b-4f1c-bcda-3ab02e2ffe13" /><br>
 <b>• After the Pi Imager finishes writing the plug in your SD Card into the Pi and Power it on!</b>
 
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/a9944e66-7eb5-4ac4-b534-341cf6a2b21c" /><br>
+<b>• Default Login Credentials are:</b><br>
+<b>• Username: pi </b><br>
+<b>• Password: parrot </b><br>
+
+<h2>🥳🥳🥳🥳🥳🥳</h2>
+<h2>🧑‍💻 You have now successfully created a Security/Pen-Testing Environment, Happy Hacking! </h2>
+
+
+
 
 
